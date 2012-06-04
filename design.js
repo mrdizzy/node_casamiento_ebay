@@ -11,7 +11,7 @@ var cb = function(err, res) {
 }
 
 var setUpTime = function() {
-    db.save("time", { lastModified: "2012-05-27T15:14:28.443Z" }, cb);
+    db.save("time", { lastModified: "2012-05-01T00:14:28.443Z" }, cb);
 }
 
 rebuildDatabase(function() {

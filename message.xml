@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <soapenv:Header>
+ <ebl:RequesterCredentials soapenv:mustUnderstand="0" xmlns:ns="urn:ebay:apis:eBLBaseComponents" xmlns:ebl="urn:ebay:apis:eBLBaseComponents">
+  <ebl:NotificationSignature xmlns:ebl="urn:ebay:apis:eBLBaseComponents">nmP6WucntKW0/x19GmytAw==</ebl:NotificationSignature>
+ </ebl:RequesterCredentials>
+ </soapenv:Header>
+ <soapenv:Body>
+ <GetMyMessagesResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+  <Timestamp>2012-06-05T22:43:43.187Z</Timestamp>
+  <Ack>Success</Ack>
+  <CorrelationID>547682620</CorrelationID>
+  <Version>775</Version>
+  <Build>E775_CORE_BUNDLED_14907606_R1</Build>
+  <NotificationEventName>MyMessagesM2MMessage</NotificationEventName>
+  <RecipientUserID>testuser_cazza</RecipientUserID>
+  <EIASToken>nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wFk4CoAZeCpQ6dj6x9nY+seQ**</EIASToken>
+  <Messages>
+   <Message>
+    <Sender>testuser_dizzy</Sender>
+    <SendingUserID>132997016</SendingUserID>
+    <RecipientUserID>testuser_cazza</RecipientUserID>
+    <SendToName>testuser_cazza</SendToName>
+    <Subject>I haven&apos;t received my item yet: testuser_dizzy sent a message about Some Name Place Cards #110099108983</Subject>
+    <MessageID>1239330</MessageID>
+    <ExternalMessageID>1080794010</ExternalMessageID>
+    <Text>&lt;![CDATA[ &lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+eBay sent this message to Test User (testuser_cazza).&lt;br /&gt;
+Your registered name is included to show this message originated from eBay.&lt;br /&gt;
+Learn more at &lt;br /&gt;
+&lt;a href=&quot;http://pages.sandbox.ebay.co.uk/help/confidence/name-userid-emails.html&quot;&gt;http://pages.sandbox.ebay.co.uk/help/confidence/name-userid-emails.html&lt;/a&gt;&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+Your question from an eBay member&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+&lt;br /&gt;
+Do not respond to the sender if this message requests that you complete the &lt;br /&gt;
+transaction outside of eBay. This type of offer is against eBay policy, may &lt;br /&gt;
+be fraudulent, and is not covered by buyer protection programs. Learn More &lt;br /&gt;
+at &lt;br /&gt;
+&lt;a href=&quot;http://pages.sandbox.ebay.co.uk/help/policies/rfe-spam-non-ebay-sale.html&quot;&gt;http://pages.sandbox.ebay.co.uk/help/policies/rfe-spam-non-ebay-sale.html&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Dear testuser_cazza,&lt;br /&gt;
+&lt;br /&gt;
+I&amp;#39;m really sorry but my item has not yet arrived. Really disappointed I &lt;br /&gt;
+have to say!&lt;br /&gt;
+&lt;br /&gt;
+-testuser_dizzy&lt;br /&gt;
+&lt;br /&gt;
+=================================================================&lt;br /&gt;
+Respond to this question&lt;br /&gt;
+&lt;a href=&quot;http://rover.ebay.com/rover/0/e11050.m44.l1139/7?euid=425eb4d100564c9aad6d903125590dc6&amp;#38;loc=http&amp;#37;3A&amp;#37;2F&amp;#37;2Fcontact.sandbox.ebay.co.uk&amp;#37;2Fws&amp;#37;2FeBayISAPI.dll&amp;#37;3FM2MContact&amp;#37;26item&amp;#37;3D110099108983&amp;#37;26requested&amp;#37;3Dtestuser_dizzy&amp;#37;26qid&amp;#37;3D1080794010&amp;#37;26redirect&amp;#37;3D0&amp;#37;26ssPageName&amp;#37;3DADME&amp;#37;3AX&amp;#37;3AAAQ&amp;#37;3AGB&amp;#37;3A1139&quot;&gt;http://rover.ebay.com/rover/0/e11050.m44.l1139/7?euid=425eb4d100564c9aad6d903125590dc6&amp;#38;loc=http&amp;#37;3A&amp;#37;2F&amp;#37;2Fcontact.sandbox.ebay.co.uk&amp;#37;2Fws&amp;#37;2FeBayISAPI.dll&amp;#37;3FM2MContact&amp;#37;26item&amp;#37;3D110099108983&amp;#37;26requested&amp;#37;3Dtestuser_dizzy&amp;#37;26qid&amp;#37;3D1080794010&amp;#37;26redirect&amp;#37;3D0&amp;#37;26ssPageName&amp;#37;3DADME&amp;#37;3AX&amp;#37;3AAAQ&amp;#37;3AGB&amp;#37;3A1139&lt;/a&gt;&lt;br /&gt;
+=================================================================&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Item name:             Some Name Place Cards&lt;br /&gt;
+&lt;a href=&quot;http://rover.ebay.com/rover/0/e11050.m43.l1123/7?euid=425eb4d100564c9aad6d903125590dc6&amp;#38;loc=http&amp;#37;3A&amp;#37;2F&amp;#37;2Fcgi.sandbox.ebay.co.uk&amp;#37;2Fws&amp;#37;2FeBayISAPI.dll&amp;#37;3FViewItem&amp;#37;26item&amp;#37;3D110099108983&amp;#37;26ssPageName&amp;#37;3DADME&amp;#37;3AX&amp;#37;3AAAQ&amp;#37;3AGB&amp;#37;3A1123&quot;&gt;http://rover.ebay.com/rover/0/e11050.m43.l1123/7?euid=425eb4d100564c9aad6d903125590dc6&amp;#38;loc=http&amp;#37;3A&amp;#37;2F&amp;#37;2Fcgi.sandbox.ebay.co.uk&amp;#37;2Fws&amp;#37;2FeBayISAPI.dll&amp;#37;3FViewItem&amp;#37;26item&amp;#37;3D110099108983&amp;#37;26ssPageName&amp;#37;3DADME&amp;#37;3AX&amp;#37;3AAAQ&amp;#37;3AGB&amp;#37;3A1123&lt;/a&gt; &lt;br /&gt;
+Item Id:               110099108983&lt;br /&gt;
+End time:              20-Jun-12 19:07:55 BST&lt;br /&gt;
+Buyer:                 testuser_dizzy&lt;br /&gt;
+Listing Status:        This message was sent while the listing was active.&lt;br /&gt;
+&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+Marketplace safety tip&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+Keep your money safe &lt;a href=&quot;http://pages.sandbox.ebay.co.uk/help/buy/payment.html&quot;&gt;http://pages.sandbox.ebay.co.uk/help/buy/payment.html&lt;/a&gt; &lt;br /&gt;
+- never pay for items with cash or instant money transfer services, such as &lt;br /&gt;
+Western Union or MoneyGram. In the past some sellers have exploited these &lt;br /&gt;
+payment methods in order to defraud buyers, so eBay has banned them from &lt;br /&gt;
+the site.&lt;br /&gt;
+&lt;br /&gt;
+Received a Second Chance Offer email? Double check that it&amp;#39;s genuine &lt;br /&gt;
+&lt;a href=&quot;http://pages.sandbox.ebay.co.uk/help/buy/personal-offer.html&quot;&gt;http://pages.sandbox.ebay.co.uk/help/buy/personal-offer.html&lt;/a&gt;: Second Chance &lt;br /&gt;
+Offer emails come directly from eBay and are shown in your My Messages.&lt;br /&gt;
+&lt;br /&gt;
+Trade safely. Beware of anyone who contacts you about buying or selling &lt;br /&gt;
+outside of eBay &lt;br /&gt;
+&lt;a href=&quot;http://pages.sandbox.ebay.co.uk/help/policies/rfe-spam-non-ebay-sale.html&quot;&gt;http://pages.sandbox.ebay.co.uk/help/policies/rfe-spam-non-ebay-sale.html&lt;/a&gt;. &lt;br /&gt;
+When you trade outside eBay, you&amp;#39;re not able to leave feedback or take &lt;br /&gt;
+advantage of our protection programmes and resolution tools. Report &lt;br /&gt;
+&lt;a href=&quot;http://ocs.sandbox.ebay.co.uk/ws/eBayISAPI.dll?ContactUs&amp;#38;wftype=3002&quot;&gt;http://ocs.sandbox.ebay.co.uk/ws/eBayISAPI.dll?ContactUs&amp;#38;wftype=3002&lt;/a&gt; an &lt;br /&gt;
+inappropriate email.&lt;br /&gt;
+&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+Email reference ID: [#425eb4d100564c9aad6d903125590dc6#]&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+&lt;br /&gt;
+Please don&amp;#39;t remove this number. Customer Support may ask you for this &lt;br /&gt;
+number, should you need assistance.&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+&lt;br /&gt;
+-----------------------------------------------------------------&lt;br /&gt;
+Learn how you can protect yourself from spoof (fake) emails at: &lt;br /&gt;
+&lt;a href=&quot;http://pages.sandbox.ebay.co.uk/education/spooftutorial/index.html&quot;&gt;http://pages.sandbox.ebay.co.uk/education/spooftutorial/index.html&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+Another eBay member sent this email to &lt;br /&gt;
+casamientoweddingstationery@gmail.com through the eBay platform. eBay takes &lt;br /&gt;
+no liability for the sending of this email or its content.&lt;br /&gt;
+&lt;br /&gt;
+Visit our privacy policy at &lt;br /&gt;
+&lt;a href=&quot;http://pages.sandbox.ebay.co.uk/help/policies/privacy-policy.html&quot;&gt;http://pages.sandbox.ebay.co.uk/help/policies/privacy-policy.html&lt;/a&gt; and User &lt;br /&gt;
+Agreement at &lt;br /&gt;
+&lt;a href=&quot;http://pages.sandbox.ebay.co.uk/help/policies/user-agreement.html&quot;&gt;http://pages.sandbox.ebay.co.uk/help/policies/user-agreement.html&lt;/a&gt; if you &lt;br /&gt;
+have any questions.&lt;br /&gt;
+&lt;br /&gt;
+You can report this message at &lt;br /&gt;
+&lt;a href=&quot;http://pages.sandbox.ebay.co.uk/help/policies/rfe-spam-ov.html&quot;&gt;http://pages.sandbox.ebay.co.uk/help/policies/rfe-spam-ov.html&lt;/a&gt; as &lt;br /&gt;
+unsolicited (spam/spoof) email.&lt;br /&gt;
+This email was sent by eBay Europe S.à r.l., which may make use of its &lt;br /&gt;
+affiliates to provide the eBay services. If you are a non-EU resident, &lt;br /&gt;
+please find the contact data of your contracting party in the User &lt;br /&gt;
+Agreement.&lt;br /&gt;
+Copyright © 2012 eBay Inc. All Rights Reserved.&lt;br /&gt;
+Designated trademarks and brands are the property of their respective &lt;br /&gt;
+owners.&lt;br /&gt;
+eBay and the eBay logo are trademarks of eBay Inc.&lt;br /&gt;
+&lt;br /&gt;
+eBay Imprint at &lt;a href=&quot;http://pages.sandbox.ebay.co.uk/aboutebay/contact.html&quot;&gt;http://pages.sandbox.ebay.co.uk/aboutebay/contact.html&lt;/a&gt;.&lt;br /&gt;
+ ]]&gt;</Text>
+    <Flagged>false</Flagged>
+    <Read>false</Read>
+    <ReceiveDate>2012-06-05T22:42:14.000Z</ReceiveDate>
+    <ExpirationDate>2013-06-05T22:42:13.000Z</ExpirationDate>
+    <ItemID>110099108983</ItemID>
+    <ResponseDetails>
+     <ResponseEnabled>true</ResponseEnabled>
+     <ResponseURL>http://contact.sandbox.ebay.co.uk/ws/eBayISAPI.dll?M2MContact&amp;item=110099108983&amp;requested=testuser_dizzy&amp;qid=1080794010&amp;redirect=0&amp;messageid=m1239330</ResponseURL>
+    </ResponseDetails>
+    <Folder>
+     <FolderID>0</FolderID>
+    </Folder>
+    <Replied>false</Replied>
+    <ItemEndTime>2012-06-20T18:07:55.000Z</ItemEndTime>
+    <ItemTitle>Some Name Place Cards</ItemTitle>
+   </Message>
+  </Messages>
+ </GetMyMessagesResponse>
+ </soapenv:Body>
+</soapenv:Envelope>
